@@ -3,7 +3,7 @@
 
 El primer cas d'exemple d'hibridació que vull abordar és l'aplicació per smartphone **Whatsapp**. 
 
-<img src="./disney.png" width="50" height="50"> # Parcs Disney: 
+# <img src="./disney.png" width="50" height="50">  Parcs Disney: 
 
 
 > "La mejor forma de predecir el futuro es implementarlo." - Alan Kay

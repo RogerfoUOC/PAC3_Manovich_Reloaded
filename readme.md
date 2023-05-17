@@ -3,4 +3,4 @@
 
 El primer cas d'exemple d'hibridació que vull abordar és l'aplicació per smartphone **Whatsapp**. 
 
-[![](https://img.shields.io/badge/MyPublicInbox-TEXT!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">

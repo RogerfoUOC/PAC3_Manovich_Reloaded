@@ -15,7 +15,7 @@ Puedes encontrarme en las siguientes redes sociales:
 - LinkedIn: [![LinkedIn](https://example.com/linkedin-logo.png)](URL_de_tu_perfil)
 - Twitter: [![Twitter](https://example.com/twitter-logo.png)](https://twitter.com/TuNombreDeUsuario)
 - Instagram: [![Instagram](https://example.com/instagram-logo.png)](https://www.instagram.com/TuNombreDeUsuario)
-- WhatsApp: [![WhatsApp](https://example.com/whatsapp-logo.png)](https://wa.me/XXXXXXXXXX)
+- WhatsApp: 🌱 [![WhatsApp](https://example.com/whatsapp-logo.png)](https://wa.me/XXXXXXXXXX)
 
 ¡No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en un proyecto emocionante!
 

@@ -15,7 +15,7 @@ L'experiència en aquests parcs comença abans d'entrar-hi. Es podem fer tours v
 
 Si parlem de les atraccions d’última generació que existeixen avui en dia, som incapaços d’imaginar tota la tecnologia combinada que existeix a cada una d’elles. Per posar un exemple on es combinen moltes d’aquestes tecnologies en una sola atracció, podem parlar de la de Ratatoullie, que ens submergim a una història on ens posem a la pell d’un ratolí que recorre i s’amaga per tots els racons de la cuina d’un restaurant.  
 
-<img src="https://disneyfacil.com/wp-content/uploads/2021/01/Atraccion-ratatouille-disney.jpg" height="500">
+<img src="https://disneyfacil.com/wp-content/uploads/2021/01/Atraccion-ratatouille-disney.jpg" width="500">
 
 Per simular això l'usuari és transportat, amb ulleres 3D i en un vehicle autònom sense raïls, per diferents habitacions ambientades amb la pel·lícula del mateix nom. A través de projeccions de pantalla 3D a cada sala, també apareixen efectes reals com olors, aigua, aire i canvis de temperatura, que fan que l'usuari es transporti realment a la història que l'atracció ens vol explicar. A més, es combina el moviment del vehicle amb la sincronització dels efectes sonors i 4D per generar una immersió total.
 
@@ -27,4 +27,4 @@ L'aplicació mòbil que hem mencionat al principi també forma part d'aquest con
 
 Qui hagi estat en un parc Disney, també sabrà que cada nit abans de tancar les portes, es recrea un espectacle al centre del parc on es reprodueix un videomaping sobre la façana del castell, combinant música, vídeo i pirotècnia.
 
-<a href="https://ohitsmagic.com/vuelven-los-fuegos-artificiales-a-walt-disney-world-y-disneyland-park-en-california/"><img src="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg" height="500"></a>
+<a href="https://ohitsmagic.com/vuelven-los-fuegos-artificiales-a-walt-disney-world-y-disneyland-park-en-california/"><img src="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg" width="500"></a>

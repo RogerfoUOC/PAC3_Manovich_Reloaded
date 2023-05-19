@@ -19,8 +19,8 @@ Si parlem de les atraccions d’última generació que existeixen avui en dia, s
 
 Per simular això l’usuari és transportat, amb ulleres 3D i en un vehicle autònom sense raïls, per diferents habitacions ambientades amb la pel·lícula del mateix nom. A través de projeccions de pantalla 3D a cada sala, també apareixen efectes reals com olors, aigua, aire i canvis de temperatura, que fan que l’usuari és transporti realment a la història que l’atracció ens vol explicar. A més, es combina el moviment del vehicle amb la sincronització dels efectes sonors i 4D per generar una immersió total.
 
-[VIDEO]
-https://www.youtube.com/watch?v=WtZdXqY1TKs
+<ahref="[{video-url}](https://www.youtube.com/watch?v=WtZdXqY1TKs)" title="Ratatouille: The Adventure Ride">
+
 
 En aquest cas particular podem dir que no es tracta d’un software que utilitzi l’usuari a través d’una sola interfície, però si que podem dir que la combinació de tots aquests elements multimèdia em generen un de nou i únic, impossible de generar si aïlléssim tots els medis de forma individual.
 

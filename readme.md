@@ -13,8 +13,8 @@ L’experiència en aquests parcs comença abans d’entrar-hi. Es podem fer tou
 
 Si parlem de les atraccions d’última generació que existeixen avui en dia, som incapaços d’imaginar tota la tecnologia combinada que existeix a cada una d’elles. Per posar un exemple on es combinen moltes d’aquestes tecnologies en una sola atracció, podem parlar de la de Ratatoullie, que ens submergim a una història on ens posem a la pell d’un ratolí que recorre i s’amaga per tots els racons de la cuina d’un restaurant.  
 
-[IMATGE]
-<img src="[./whatsappicon.png](https://disneyfacil.com/wp-content/uploads/2021/01/Atraccion-ratatouille-disney.jpg)" width="50" height="50">
+
+<img src="https://disneyfacil.com/wp-content/uploads/2021/01/Atraccion-ratatouille-disney.jpg" width="50" height="50">
 
 
 Per simular això l’usuari és transportat, amb ulleres 3D i en un vehicle autònom sense raïls, per diferents habitacions ambientades amb la pel·lícula del mateix nom. A través de projeccions de pantalla 3D a cada sala, també apareixen efectes reals com olors, aigua, aire i canvis de temperatura, que fan que l’usuari és transporti realment a la història que l’atracció ens vol explicar. A més, es combina el moviment del vehicle amb la sincronització dels efectes sonors i 4D per generar una immersió total.

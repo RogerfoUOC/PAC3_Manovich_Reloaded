@@ -22,6 +22,7 @@ Per simular això l’usuari és transportat, amb ulleres 3D i en un vehicle aut
 
 
 [Ratatouille: The Adventure Ride](https://www.youtube.com/watch?v=WtZdXqY1TKs)
+[![Ratatouille: The Adventure Ride](https://res.cloudinary.com/marcomontalbano/image/upload/v1684520576/video_to_markdown/images/youtube--WtZdXqY1TKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WtZdXqY1TKs "Ratatouille: The Adventure Ride")
 
 En aquest cas particular podem dir que no es tracta d’un software que utilitzi l’usuari a través d’una sola interfície, però si que podem dir que la combinació de tots aquests elements multimèdia em generen un de nou i únic, impossible de generar si aïlléssim tots els medis de forma individual.
 

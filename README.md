@@ -13,15 +13,10 @@ L’experiència en aquests parcs comença abans d’entrar-hi. Es podem fer tou
 
 Si parlem de les atraccions d’última generació que existeixen avui en dia, som incapaços d’imaginar tota la tecnologia combinada que existeix a cada una d’elles. Per posar un exemple on es combinen moltes d’aquestes tecnologies en una sola atracció, podem parlar de la de Ratatoullie, que ens submergim a una història on ens posem a la pell d’un ratolí que recorre i s’amaga per tots els racons de la cuina d’un restaurant.  
 
-
-<img src="https://disneyfacil.com/wp-content/uploads/2021/01/Atraccion-ratatouille-disney.jpg">
-
+<img src="https://disneyfacil.com/wp-content/uploads/2021/01/Atraccion-ratatouille-disney.jpg" width="250" height="250">
 
 Per simular això l’usuari és transportat, amb ulleres 3D i en un vehicle autònom sense raïls, per diferents habitacions ambientades amb la pel·lícula del mateix nom. A través de projeccions de pantalla 3D a cada sala, també apareixen efectes reals com olors, aigua, aire i canvis de temperatura, que fan que l’usuari és transporti realment a la història que l’atracció ens vol explicar. A més, es combina el moviment del vehicle amb la sincronització dels efectes sonors i 4D per generar una immersió total.
 
-
-
-[Ratatouille: The Adventure Ride](https://www.youtube.com/watch?v=WtZdXqY1TKs)
 [![Ratatouille: The Adventure Ride](https://res.cloudinary.com/marcomontalbano/image/upload/v1684520576/video_to_markdown/images/youtube--WtZdXqY1TKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WtZdXqY1TKs "Ratatouille: The Adventure Ride")
 
 En aquest cas particular podem dir que no es tracta d’un software que utilitzi l’usuari a través d’una sola interfície, però si que podem dir que la combinació de tots aquests elements multimèdia em generen un de nou i únic, impossible de generar si aïlléssim tots els medis de forma individual.

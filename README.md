@@ -22,7 +22,7 @@ L'aplicació mòbil que hem mencionat al principi també forma part d'aquest con
 
 Qui hagi estat en un parc Disney, també sabrà que cada nit abans de tancar les portes, es recrea un espectacle al centre del parc on es reprodueix un videomaping sobre la façana del castell, combinant música, vídeo i pirotècnia.
 
-<a href="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg"><img src="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg" width="500"></a>
+<img src="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg" width="500">
 
 ---
 
@@ -42,9 +42,8 @@ Per acabar, cal destacar com queda palesa la hibridació de WhatsApp quan combin
 
 De forma resumida, el que fa que des del meu punt de vista WhatsApp sigui l'aplicació hibrida per excel·lència, és el fet que des d'una sola interfície d'usuari, ens permeti interactuar amb tants elements multimèdia, amb una o vàries persones alhora, i gràcies als dispositius mòbils i connexió a internet puguem fer-ho des de qualsevol lloc.
 
+<img src="[https://i2.wp.com/ticsyformacion.com/wp-content/uploads/2018/05/whatsapp-infografia.jpg](https://i2.wp.com/ticsyformacion.com/wp-content/uploads/2018/05/whatsapp-infografia.jpg)" width="500">
 
-
-![Descripció](https://i2.wp.com/ticsyformacion.com/wp-content/uploads/2018/05/whatsapp-infografia.jpg "Número de missatges enviats anualment, fins 2018.")
 
 ---
 :bust_in_silhouette: Roger Fogueras Bayarri <br>

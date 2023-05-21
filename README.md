@@ -4,7 +4,7 @@
 
 # :open_file_folder: Plantejament:
 
-En aquest document abordarem dos casos d'hibridació a partir de la mirada de Lev Manovich en el seu llibre de 2013: El software toma el mando". A més ho farem a través de l'eina colaborativa GitHub amb un format de Markdown.
+En aquest document abordarem dos casos originals d'hibridació a partir de la mirada de Lev Manovich en el seu llibre de 2013: "***El software toma el mando***". A més ho farem a través de l'eina colaborativa GitHub i amb un format de Markdown.
 
 Els dos casos proposats són:
 

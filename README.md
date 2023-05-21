@@ -42,8 +42,9 @@ Per acabar, cal destacar com queda palesa la hibridació de WhatsApp quan combin
 
 De forma resumida, el que fa que des del meu punt de vista WhatsApp sigui l'aplicació hibrida per excel·lència, és el fet que des d'una sola interfície d'usuari, ens permeti interactuar amb tants elements multimèdia, amb una o vàries persones alhora, i gràcies als dispositius mòbils i connexió a internet puguem fer-ho des de qualsevol lloc.
 
-<a href="https://i2.wp.com/ticsyformacion.com/wp-content/uploads/2018/05/whatsapp-infografia.jpg"><img src="https://i2.wp.com/ticsyformacion.com/wp-content/uploads/2018/05/whatsapp-infografia.jpg" width="500"></a>
-<img src="[https://i2.wp.com/ticsyformacion.com/wp-content/uploads/2018/05/whatsapp-infografia.jpg](https://i2.wp.com/ticsyformacion.com/wp-content/uploads/2018/05/whatsapp-infografia.jpg)" width="500">
+
+
+![Descripción de la imagen](https://i2.wp.com/ticsyformacion.com/wp-content/uploads/2018/05/whatsapp-infografia.jpg "Número de missatges enviats anualment, fins 2018.")
 
 ---
 :bust_in_silhouette: Roger Fogueras Bayarri <br>

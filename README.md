@@ -2,11 +2,6 @@
 ## Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 ---
 
-# <img src="./whatsappicon.png" width="50" height="50">  WhatsApp:
-El primer cas d'exemple d'hibridació que vull abordar és l'aplicació per smartphone **Whatsapp**. 
-
----
-
 # <img src="./disney.png" width="50" height="50">  Parcs Disney: 
 
 Lev Manovich ens diu al seu llibre "El software toma el mando" que "Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas ." (Manovich, 2013). Per tant, podem considerar els parcs Disney com a elements híbrids en l'àmbit de l'entreteniment i de l'experiència multimèdia. Ho considero així per la infinitat de combinacions de diferents medis i de les diferents tecnologies utilitzades ja no només en les atraccions, sinó també en la recreació de l'univers Disney i la forma amb la qual els usuaris hi poden interactuar, passant a ser una part activa d'aquest món.
@@ -29,6 +24,22 @@ Qui hagi estat en un parc Disney, també sabrà que cada nit abans de tancar les
 
 <a href="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg"><img src="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg" width="500"></a>
 
+---
+
+# <img src="./whatsappicon.png" width="50" height="50">  WhatsApp:
+Podem considerar WhatsApp com un exemple d'element híbrid en l'àmbit de les aplicacions de missatgeria instantània, consum de multimèdia i comunicació digital. Com hem vist en l'anterior exemple, Manovich defineix els elements híbrids com aquells que combinen característiques i funcionalitats de diferents medis i tecnologies, creant d'aquesta manera una nova forma d'interacció i experiència.
+
+Des de fa anys existeixen aplicacions semblants de missatgeria que combinen elements multimèdia, però cap ho ha aconseguit fer com WhatsApp avui dia. A més, el fet de simplificar el seu ús en un dispositiu utilitzat de forma massiva, com és el telèfon mòbil, fa que m'atreveixi a afirmar que actualment és la principal eina de comunicació que existeix entre persones.
+
+A través d'aquesta plataforma l'usuari pot crear, modificar i compartir diferents elements multimèdia integrats en una mateixa interfície d'usuari. També permet, que a partir d'una enquesta, cada membre d'un grup pugui votar la seva opció sobra una consulta feta per un usuari. Una eina que va néixer com a missatgeria de text i posteriorment va incorporar l'enviament d'imatges, ha evolucionat en un element híbrid on conviuen múltiples eines, medis i tecnologies.
+Podem compartir la nostra ubicació actual, o una d’aproximada, o compartir-la en directe durant un període de temps determinat amb un contacte o en un grup amb més gent. Per aconseguir-ho, la plataforma integra a la mateixa eina els mapes de Google o Apple (segons el sistema operatiu). Altres eines externes integrades son Tenor o Giphy per enviar gifs animats. 
+Això també ens demostra com s'adapta l'aplicació segons des de quin sistema operatiu s'executa, ja que a part de dispositius mòbils Android o Apple, també podem utilitzar WhatsAPP web o l'aplicació d'escriptori per ordinador, que detectarà si disposem o no de GPS per compartir ubicació, i ens permetrà també accedir al disc dur de l'ordinador per poder enviar qualsevol element, sigui un document, imatge contacte o fins i tot generar stickers.
+
+Altres tecnologies de diferents medis que incorpora WhatsApp i que una vegada més demostra com ha revolucionat i canviat la forma com ens comuniquem, són les notes de veu. Per què fer una trucada que dependrà de la disponibilitat de l'altra persona, si el que li vull dir es pot explicar en un àudio curt de menys de 10 segons? Premo el botó de micròfon, parlo i deixo anar el botó per enviar. També podem fer videotrucades grupals on tornem a combinar vídeo i àudio amb tecnologia mòbil i connectivitat a internet en una sola interfície.
+
+Per acabar, cal destacar com queda palesa la hibridació de WhatsApp quan combinem elements físics com la càmera, amb el mateix software de l'aplicació i la connectivitat a internet per realitzar una vegada més la comunicació amb un sol individu o de manera grupal a través d'una videotrucada. Podem veure com a pantalla dividida l'aplicació ens permet fer una videotrucada (també de veu) amb diferents persones alhora.
+
+De forma resumida, el que fa que des del meu punt de vista WhatsApp sigui l'aplicació hibrida per excel·lència, és el fet que des d'una sola interfície d'usuari, ens permeti interactuar amb tants elements multimèdia, amb una o vàries persones alhora, i gràcies als dispositius mòbils i connexió a internet puguem fer-ho des de qualsevol lloc.
 
 ---
 :bust_in_silhouette: Roger Fogueras Bayarri <br>

@@ -44,7 +44,7 @@ De forma resumida, el que fa que des del meu punt de vista WhatsApp sigui l'apli
 
 
 
-![Descripción de la imagen](https://i2.wp.com/ticsyformacion.com/wp-content/uploads/2018/05/whatsapp-infografia.jpg "Número de missatges enviats anualment, fins 2018.")
+![Descripció]("https://i2.wp.com/ticsyformacion.com/wp-content/uploads/2018/05/whatsapp-infografia.jpg" "Número de missatges enviats anualment, fins 2018.")
 
 ---
 :bust_in_silhouette: Roger Fogueras Bayarri <br>

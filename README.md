@@ -3,6 +3,8 @@
 ---
 
 :bust_in_silhouette: Roger Fogueras Bayarri
+:email: rfogueras@uoc.edu
+:date: Maig 2023
 
 # <img src="./whatsappicon.png" width="50" height="50">  WhatsApp:
 El primer cas d'exemple d'hibridació que vull abordar és l'aplicació per smartphone **Whatsapp**. 
@@ -30,3 +32,9 @@ L'aplicació mòbil que hem mencionat al principi també forma part d'aquest con
 Qui hagi estat en un parc Disney, també sabrà que cada nit abans de tancar les portes, es recrea un espectacle al centre del parc on es reprodueix un videomaping sobre la façana del castell, combinant música, vídeo i pirotècnia.
 
 <a href="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg"><img src="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg" width="500"></a>
+
+
+---
+:bust_in_silhouette: Roger Fogueras Bayarri
+:email: rfogueras@uoc.edu
+:date: Maig 2023

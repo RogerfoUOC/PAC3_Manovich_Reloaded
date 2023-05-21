@@ -2,10 +2,6 @@
 > Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 ---
 
-:bust_in_silhouette: Roger Fogueras Bayarri
-:email: rfogueras@uoc.edu
-:date: Maig 2023
-
 # <img src="./whatsappicon.png" width="50" height="50">  WhatsApp:
 El primer cas d'exemple d'hibridació que vull abordar és l'aplicació per smartphone **Whatsapp**. 
 
@@ -35,6 +31,6 @@ Qui hagi estat en un parc Disney, també sabrà que cada nit abans de tancar les
 
 
 ---
-:bust_in_silhouette: Roger Fogueras Bayarri
-:email: rfogueras@uoc.edu
-:date: Maig 2023
+:bust_in_silhouette: Roger Fogueras Bayarri <br>
+:email: rfogueras@uoc.edu <br>
+:date: Maig 2023 <br>

@@ -1,5 +1,4 @@
-## REPTE-ACTIVITAT 3:
-> Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
+## REPTE-ACTIVITAT 3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 ---
 
 # <img src="./whatsappicon.png" width="50" height="50">  WhatsApp:

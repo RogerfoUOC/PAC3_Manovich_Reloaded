@@ -56,6 +56,7 @@ De forma resumida, el que fa que des del meu punt de vista **WhatsApp** sigui l'
 - ["Conocimiento Abierto y Tecnología" (Psicologiasocial)](http://juan.psicologiasocial.eu/conocimiento-y-tecnologia)
 - ["Hibridación de medios" (Wikipedia)](https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios)
 - ["Lev Manovich" (Wikipedia)](https://es.wikipedia.org/wiki/Lev_Manovich)
+- [Markdown Tutorial](https://tutorialmarkdown.com/)
 
 
 

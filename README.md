@@ -3,7 +3,7 @@
 ---
 
 
-# 	:Clip: Plantejament:
+# 	:paperclip: Plantejament:
 
 
 

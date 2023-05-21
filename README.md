@@ -27,4 +27,4 @@ L'aplicació mòbil que hem mencionat al principi també forma part d'aquest con
 
 Qui hagi estat en un parc Disney, també sabrà que cada nit abans de tancar les portes, es recrea un espectacle al centre del parc on es reprodueix un videomaping sobre la façana del castell, combinant música, vídeo i pirotècnia.
 
-<a href="https://ohitsmagic.com/vuelven-los-fuegos-artificiales-a-walt-disney-world-y-disneyland-park-en-california/"><img src="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg" width="500"></a>
+<a href="https://ohitsmagic.com/vuelven-los-fuegos-artificiales-a-walt-disney-world-y-disneyland-park-en-california](https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg"><img src="https://ohitsmagic.com/wp-content/uploads/2021/06/MK17-HappilyEverAfter0507-263-scaled.jpg" width="500"></a>

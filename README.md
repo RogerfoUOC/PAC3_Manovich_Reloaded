@@ -2,6 +2,8 @@
 > Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 ---
 
+:bust_in_silhouette: Roger Fogueras Bayarri
+
 # <img src="./whatsappicon.png" width="50" height="50">  WhatsApp:
 El primer cas d'exemple d'hibridació que vull abordar és l'aplicació per smartphone **Whatsapp**. 
 

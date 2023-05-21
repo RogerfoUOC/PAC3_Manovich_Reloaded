@@ -2,8 +2,15 @@
 ## Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 ---
 
-
 # :open_file_folder: Plantejament:
+
+En aquest document abordarem dos casos d'hibridació a partir de la mirada de Lev Manovich en el seu llibre de 2013: El software toma el mando". A més ho farem a través de l'eina colaborativa GitHub amb un format de Markdown.
+
+Els dos casos proposats són:
+
+**WhatsApp**: Aplicació que neix amb la premisa de programa de missatgeria instantània a través d'internet i dispositius mòbils, i que s'ha convertit en un element híbrid. Avui dia, a més d'escriure i donar format al text també, també es poden realitzar enquestes, trucar o videotrucar, compartir documents, contactes, àudios, imatges, vídeos, gifs o fins i tot la nostra localització en temps real, i tot des de la mateixa interfície d'usuari.
+
+**Experiències en parcs d'atraccions Disney**: No són serveis pròpiament digitals, però si analitzem casos com els parcs Disney trobem una incomptable quantitat de programari que amb el pas del temps ha patit una gran hibridació. L'atracció més clàssica, com un carrusel, abans es podia executar amb un software molt bàsic. En canvi avui en dia les atraccions més avançades combinen el moviment amb la realitat virtual, projecció 3D, 4D, efectes especials, de llum i de so, interacció directa amb pantalles tàctils o videomapping entre d'altres. Fora les atraccions també trobem sistemes híbrids en la gestió del parcs l'accés i altres serveis.
 
 # <img src="./disney.png" width="50" height="50">  Parcs Disney: 
 

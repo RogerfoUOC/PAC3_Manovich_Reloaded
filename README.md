@@ -2,6 +2,12 @@
 ## Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 ---
 
+
+# Plantejament:
+
+
+
+---
 # <img src="./disney.png" width="50" height="50">  Parcs Disney: 
 
 Lev Manovich ens diu al seu llibre "El software toma el mando" que "Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas ." (Manovich, 2013). Per tant, podem considerar els parcs Disney com a elements híbrids en l'àmbit de l'entreteniment i de l'experiència multimèdia. Ho considero així per la infinitat de combinacions de diferents medis i de les diferents tecnologies utilitzades ja no només en les atraccions, sinó també en la recreació de l'univers Disney i la forma amb la qual els usuaris hi poden interactuar, passant a ser una part activa d'aquest món.

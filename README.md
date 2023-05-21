@@ -51,7 +51,7 @@ De forma resumida, el que fa que des del meu punt de vista WhatsApp sigui l'apli
 
 # :paperclip: Bibliografia i Webgrafia:
 
-- [El software toma el mando. Lev Manovich 2013.ePub](https://campus.uoc.edu/tren/trenacc?s=af837de544b1f8eb53dc0300bb206e6988770dc89ffcf2abc6deac688314ac63435c51dfb4e5f8571be05b6ce98ca165bc20e6c37abf7ee9acfac921f13c987f&modul=DIMAX.DINAROJ/dimaxweb.Pagina&pantalla=HISTORICS&node=73486&entidad_gestora=DEF&entorn_gestio=PV20222&idioma=CAT&lang=&pantalla_his=XML_ARBRE_RECURSOS&cami=&p_entrada=PV)
+- [El software toma el mando. Lev Manovich, 2013 [ePub]](https://campus.uoc.edu/tren/trenacc?s=af837de544b1f8eb53dc0300bb206e6988770dc89ffcf2abc6deac688314ac63435c51dfb4e5f8571be05b6ce98ca165bc20e6c37abf7ee9acfac921f13c987f&modul=DIMAX.DINAROJ/dimaxweb.Pagina&pantalla=HISTORICS&node=73486&entidad_gestora=DEF&entorn_gestio=PV20222&idioma=CAT&lang=&pantalla_his=XML_ARBRE_RECURSOS&cami=&p_entrada=PV)
 - ["Remediación, multimedia e hibridación de los medios".](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 - [Conocimiento Abierto y Tecnología](http://juan.psicologiasocial.eu/conocimiento-y-tecnologia)
 https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios 

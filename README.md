@@ -51,10 +51,10 @@ De forma resumida, el que fa que des del meu punt de vista WhatsApp sigui l'apli
 
 # :paperclip: Bibliografia i Webgrafia:
 
-Llibre "El software toma el mando". Lev Manovich 2013.
-http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
-http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
-https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
+Llibre "El software toma el mando". Lev Manovich 2013. <br>
+http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ <br>
+http://juan.psicologiasocial.eu/conocimiento-y-tecnologia <br>
+https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios <br>
 
 ---
 :bust_in_silhouette: Roger Fogueras Bayarri <br>
